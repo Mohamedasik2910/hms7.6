@@ -1,0 +1,8 @@
+hms\pages\VistorPage.class
+hms\pages\LoginPage.class
+hms\base\Testbase.class
+hms\utility\ReadExcel.class
+hms\utility\Commonjutility.class
+hms\pages\Frontofficepage.class
+hms\utility\Datepicker.class
+hms\utility\Activitycapture.class
